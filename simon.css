@@ -1,0 +1,38 @@
+body{
+  background-color: #e36bae;
+  text-align: center;
+}
+#bashy{
+  font-family: sans-serif;
+  font-size: 3.5rem;
+  color: #fceef5;
+  margin: 2%;
+}
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid #790c5a;
+  border-radius: 20%;
+}
+.green{
+  background-color: green;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
+.red{
+  background-color: red;
+}
+.yalnysh{
+  background-color: red;
+  opacity: 0.8;
+}
+.basyldy {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
